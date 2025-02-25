@@ -1,4 +1,4 @@
-# Hi, I'm Stev200e!  
+# Hi, I'm stev200e!  
 
 ## About Me  
 I'm a beginner programmer eager to explore the world of software and computer programming.  
